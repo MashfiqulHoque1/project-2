@@ -1,0 +1,43 @@
+body{
+    background-color: antiquewhite;
+    padding: 11px;
+}
+
+h1{
+    text-align: center;
+    color: lightcoral;
+}
+
+.p1{
+    color: dodgerblue;
+    text-decoration: underline;
+}
+
+.p2{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.col2{
+    margin-left: 300px;
+}
+
+.para1{
+    display: flex;
+    align-items: center;
+}
+
+.p3{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.row2col2{
+    margin-left: 300px;
+}
+
+.para2{
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+}
